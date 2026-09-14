@@ -20,7 +20,7 @@ GeoMo-Net first reconstructs a topology-consistent 4D biventricular mesh from mu
 
 Representative cases illustrate infarcts with different locations, scar burdens, and reconstruction accuracies. The reconstructed 3D scars are projected back to the cine MRI for image-space visualization, while bull's-eye maps compare segment-level scar burden with the LGE-derived ground truth.
 
-## Downstream Task
+## Downstream Task: EP Simulation
 
 <p align="center">
   <img src="source/fig_Vm_ECG.svg" width="100%">
