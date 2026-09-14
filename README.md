@@ -1,8 +1,8 @@
-Official implementation of GeoMo-Net for contrast-free 3D myocardial infarct reconstruction from cine MRI.
+Official implementation of GeoMo-Net for contrast-free 3D myocardial infarct reconstruction from cine MRI. The complete code will be released upon acceptance.
 
 ## Overview
 
-GeoMo-Net is a contrast-free framework for reconstructing personalized 3D myocardial infarct geometry directly from multi-view cine MRI. It combines patient-specific cardiac geometry with myocardial motion on a topology-consistent 4D biventricular mesh and predicts infarct regions at the node level. The complete source code and pretrained models will be released upon acceptance.
+GeoMo-Net is a contrast-free framework for reconstructing personalized 3D myocardial infarct geometry directly from multi-view cine MRI. It combines patient-specific cardiac geometry with myocardial motion on a topology-consistent 4D biventricular mesh and predicts infarct regions at the node level.
 
 ## Framework
 
