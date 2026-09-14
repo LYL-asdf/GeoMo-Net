@@ -1,4 +1,4 @@
-Official implementation of GeoMo-Net for contrast-free 3D myocardial infarct reconstruction from cine MRI. The complete code will be released upon acceptance.
+Official implementation of GeoMo-Net for contrast-free 3D myocardial infarct reconstruction from cine MRI. The source code will be released upon acceptance.
 
 ## Overview
 
@@ -25,6 +25,6 @@ Representative cases illustrate infarcts with different locations, scar burdens,
 <p align="center">
   <img src="source/fig_Vm_ECG.svg" width="100%">
 </p>
-[▶ View animated Vm and ECG](https://LYL-asdf.github.io/GeoMo-Net/source/view_video.html)
+[▶ View animated Vm](https://LYL-asdf.github.io/GeoMo-Net/source/view_video.html)
 
 GeoMo-Net-predicted scars reproduce scar-induced changes in transmembrane potential propagation, including regional conduction delay and block. The corresponding simulated ECGs also recover lead-specific morphological changes observed with the LGE-derived scar models.
