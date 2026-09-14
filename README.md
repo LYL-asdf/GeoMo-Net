@@ -6,7 +6,9 @@ GeoMo-Net is a contrast-free framework for reconstructing personalized 3D myocar
 
 ## Framework
 
-![GeoMo-Net animated framework](source/fig_framework_Video_3840px.gif)
+<p align="center">
+  <img src="source/fig_framework_Video_3840px.gif" alt="GeoMo-Net animated framework" width="90%">
+</p>
 
 GeoMo-Net first reconstructs a topology-consistent 4D biventricular mesh from multi-view cine MRI. Geometry-aware features characterize cardiac shape and anatomical location, while motion-aware features describe myocardial deformation throughout the cardiac cycle. The two representations are adaptively fused and modeled spatiotemporally for node-level infarct reconstruction.
 
