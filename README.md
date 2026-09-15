@@ -23,7 +23,7 @@ Representative cases illustrate infarcts with different locations, scar burdens,
 ## Downstream Task: EP Simulation
 
 <p align="center">
-  <img src="source/fig_Vm_ECG_overlay.gif" alt="Vm_ECG animated framework" width="80%">
+  <img src="source/fig_Vm_ECG_overlay.gif" alt="Vm_ECG animated framework" width="70%">
 </p>
 
 GeoMo-Net-predicted scars reproduce scar-induced changes in transmembrane potential propagation, including regional conduction delay and block. The corresponding simulated ECGs also recover lead-specific morphological changes observed with the LGE-derived scar models.
